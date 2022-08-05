@@ -37,7 +37,7 @@ Now using node v12.16.2 (npm v6.14.4)
 
 ### Getting the project locally
 ```sh
-git clone git@github.com:hhimanshu/web-push-notifications.git
+git clone https://github.com/mub4shir/web-push-notifications.git
 
 cd web-push-notifications
 ```
